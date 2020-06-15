@@ -1,8 +1,7 @@
 # Clicky-Game
 In this game you will be clicking on cards and making sure you don't click on the same card twice, if you do you will lose the game.
 
-
-
+![](/images/clicky-game.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
