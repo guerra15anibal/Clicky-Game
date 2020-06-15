@@ -1,0 +1,32 @@
+.card {
+  border-radius: 2px;
+  height: 300px;
+  position: relative;
+  width: 300px;
+  text-align: left;
+}
+
+.card > .img-container {
+  height: 60%;
+  overflow: hidden;
+  text-align: center;
+  background-image: url("https://vignette.wikia.nocookie.net/en.futurama/images/8/83/Trisol.jpg/revision/latest?cb=20090103150440");
+}
+.card > .img-container > img {
+  width: 60%
+}
+
+.card > .content {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+}
+
+.card > .content > ul {
+  list-style-type: none;
+}
+
+.card > .content > ul > li {
+  margin-top: 18px;
+}
+

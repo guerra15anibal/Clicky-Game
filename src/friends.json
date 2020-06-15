@@ -1,0 +1,51 @@
+[
+  {
+      "id": "1",
+      "name": "Leela",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/a/ae/Turanga-Leela.png/revision/latest/top-crop/width/360/height/360?cb=20200506091523"
+  },{
+      "id": "2",
+      "name": "Fry",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Philip_Fry.png/220px-Philip_Fry.png"
+  },{
+      "id": "3",
+      "name": "Bender",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Bender_Rodriguez.png/220px-Bender_Rodriguez.png"
+  },{
+      "id": "4",
+      "name": "Amy",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/9/94/AmyWong.png/revision/latest/top-crop/width/360/height/360?cb=20170123190854"
+  },{
+      "id": "5",
+      "name": "Zoidberg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Dr_John_Zoidberg.png/200px-Dr_John_Zoidberg.png"
+  },{
+      "id": "6",
+      "name": "Kif",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/8/88/Kif-Kroker.png/revision/latest?cb=20200506091931"
+  },{
+      "id": "7",
+      "name": "Zapp",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/7/73/Zapp-Brannigan.png/revision/latest?cb=20200506091829"
+  },{
+      "id": "8",
+      "name": "Hermes",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/0/0d/Hermes.png/revision/latest/top-crop/width/360/height/450?cb=20170719011119"
+  },{
+      "id": "9",
+      "name": "Professor Farnsworth",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/4/4e/Professor-Farnsworth.png/revision/latest?cb=20200506091733"
+  },{
+      "id": "10",
+      "name": "Nibbler",
+      "image": "https://gamepedia.cursecdn.com/futuramaworldsoftomorrow_gamepedia_en/1/1f/Nibbler.png"
+  },{
+      "id": "11",
+      "name": "Scruffy",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/1/10/Scruffy.png/revision/latest/top-crop/width/360/height/450?cb=20170123190905"
+  },{
+      "id": "12",
+      "name": "Mom",
+      "image": "https://vignette.wikia.nocookie.net/en.futurama/images/d/d9/Mom.png/revision/latest?cb=20170123190703"
+  }
+]
